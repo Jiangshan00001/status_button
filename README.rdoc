@@ -1,3 +1,8 @@
+check&add redmine4.2 support
+
+from:
+https://github.com/y503unavailable/status_button/issues
+
 = Status Button - Redmine Plugin
 
 == Feature
